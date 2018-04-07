@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Oracle - @zf.houbank.net" uuid="f597da8a-51ea-485e-954d-9c424b3a4113">
+      <secret-storage>memory</secret-storage>
+      <user-name>hbbl</user-name>
+      <introspection-scope>*:HBBL,PUBLIC,SYS,SYSTEM</introspection-scope>
+      <resolve-scope>*:HBBL,PUBLIC</resolve-scope>
+    </data-source>
+    <data-source name="Oracle - @zf.houbank.net [2]" uuid="b7f725d8-9099-45ee-ac8e-342587482689">
+      <secret-storage>master_key</secret-storage>
+      <user-name>hbhx</user-name>
+      <introspection-scope>*:HBHX,PUBLIC,SYS,SYSTEM</introspection-scope>
+      <resolve-scope>*:HBHX,PUBLIC</resolve-scope>
+    </data-source>
+  </component>
+</project>

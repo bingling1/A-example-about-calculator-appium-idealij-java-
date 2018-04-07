@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1157127034">
+    <data-source source="LOCAL" name="Oracle - @zf.houbank.net" uuid="f597da8a-51ea-485e-954d-9c424b3a4113">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//zf.houbank.net:10089/cgdb</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Oracle - @zf.houbank.net [2]" uuid="b7f725d8-9099-45ee-ac8e-342587482689">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//zf.houbank.net:10089/cgdb</jdbc-url>
+    </data-source>
+  </component>
+</project>
